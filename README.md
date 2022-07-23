@@ -1,2 +1,2 @@
-# I like koishi
-I like her hat
+# GensokyoRP
+Dummy repo for tModLoader 1.3 mod browser
